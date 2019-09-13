@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "baringo-pois",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "SectorId": "6e1c324e-de5e-11e8-9f32-f2801f1b9fd1", "SectorName": "HEALTH", "SubSectorId": "21d8bdb8-de62-11e8-9f32-f2801f1b9fd1", "SubSectorName": "Health", "ProgrammeId": "9291cdc2-deb4-11e8-9f32-f2801f1b9fd1", "ProgrammeName": "Preventive and Promotive health services", "SubProgrammeId": "006d3cdc-dec7-11e8-9f32-f2801f1b9fd1", "SubProgrammeName": "Communicable diseases", "ProjectId": "40d56c00-bb0c-4e06-b75e-a9ac0060eb5a", "ProjectName": "Marigat sub county hospital", "ProjectDescription": "To provide health care services to the community", "Ref": "uuid:6a2f68fd-3843-4861-9fde-d26c04aed119", "Status": "Ongoing", "Latitude": 0.47358805, "Longitude": 35.98130503, "County": "Baringo", "SubCounty": null, "Ward": null, "Remarks": null, "Code": 1 }, "geometry": { "type": "Point", "coordinates": [ 35.98130503, 0.47358805 ] } },
